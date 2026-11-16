@@ -50,7 +50,10 @@ public/puzzles/  generated easy.json, medium.json, hard.json
 code lives only in `src/engine/stockfish-browser.ts` and `src/engine/stockfish-node.ts`.
 
 ## Puzzle data
-- Source: Lichess puzzle DB (CC0), `lichess_db_puzzle.csv.zst`, streamed + decompressed.
+- Source: Lichess puzzle DB (CC0), `lichess_db_puzzle.csv.zst`, streamed + decompressed
+  (multi-frame zstd, see `scripts/zstd-frames.ts`). `data/lichess-lines.json` holds the Lichess
+  solution lines for tests only; it must not be served to the browser.
+- Don't name files `*.node.ts`: tsx treats `.node` as a native-addon extension.
 - The CSV `FEN` is the position BEFORE the opponent's first move; `Moves[0]` is the opponent's
   move. Player starts from FEN + Moves[0].
 - Tiers: easy (<1400, mateIn2), medium (1400-1899, mateIn3), hard (>=1900, mateIn4/5).
@@ -62,10 +65,14 @@ code lives only in `src/engine/stockfish-browser.ts` and `src/engine/stockfish-n
 - States: Loading -> SetupMove -> PlayerToMove -> DefenderThinking -> ... -> Ended(result).
 - Results: `mate` (player checkmates) or `failed` (stalemate, draw, player mated, move cap).
 - `replay()` in `src/game/replay.ts` is the single source of truth, shared by UI and verifier.
+  It also returns `incomplete` when the moves are legal but the game has not ended.
+- Moves are matched strictly: lowercase UCI, promotion piece required, no extra suffixes
+  (`applyUciMove` in `src/game/moves.ts`). Never normalise submitted moves.
+- Hard-tier pars can exceed 5: Lichess tags every mate in 5 or more as `mateIn5`.
 
 ## Commands
 - `pnpm dev` / `pnpm build` / `pnpm test` / `pnpm typecheck`
 - `pnpm test:engine` (slow: real Stockfish determinism tests)
 - `pnpm build-puzzles` (downloads the Lichess DB into `.cache/`)
-- `pnpm verify --puzzle <id> --moves "e2e4 d1h5"`
+- `pnpm verify --puzzle <id> --moves "e2e4 d1h5"` (exit 0 mate, 1 failed/incomplete, 2 rejected)
 - `pnpm engine:node-results` and the `/engine-compare.html` dev page compare browser vs Node.
