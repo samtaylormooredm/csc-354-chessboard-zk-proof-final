@@ -1,0 +1,1502 @@
+[
+ {
+  "id": "00LRq",
+  "tier": "hard",
+  "rating": 2219,
+  "startFen": "1k6/1p1q4/P2p3p/1NpPpn1Q/5b2/2P3r1/1P2B1P1/R6K b - - 3 28",
+  "setupMove": "g3g7",
+  "par": 4,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "01FSC",
+  "tier": "hard",
+  "rating": 2066,
+  "startFen": "4r3/5Qkp/p5pN/8/6P1/6KP/P1P1r3/8 b - - 0 34",
+  "setupMove": "g7h6",
+  "par": 4,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "02ouU",
+  "tier": "hard",
+  "rating": 2261,
+  "startFen": "2kr2nr/1pp1q2p/p2b2p1/1N1P1b2/2BPp3/Q7/PB3PPP/4R1K1 b - - 1 17",
+  "setupMove": "a6b5",
+  "par": 4,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "037D4",
+  "tier": "hard",
+  "rating": 2031,
+  "startFen": "r1b2rk1/1p2Qppp/p2p4/3P4/5R2/3q4/P5PP/5R1K b - - 1 22",
+  "setupMove": "b7b5",
+  "par": 4,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "04g7p",
+  "tier": "hard",
+  "rating": 1998,
+  "startFen": "2r1NQ2/5p1k/4p1p1/3pB2p/1p1Pq3/4P1P1/5PKP/8 w - - 4 35",
+  "setupMove": "f2f3",
+  "par": 4,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "05DXA",
+  "tier": "hard",
+  "rating": 2054,
+  "startFen": "3r1rk1/q3bppp/2p1p3/1p2B3/1n1P4/3B1P2/PPP2P1P/R5RK b - - 3 21",
+  "setupMove": "b4d3",
+  "par": 4,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "062e9",
+  "tier": "hard",
+  "rating": 2113,
+  "startFen": "8/4R1pp/5pk1/1ppb4/5PPP/8/2r2B2/6K1 b - - 0 37",
+  "setupMove": "c5c4",
+  "par": 4,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "06LQW",
+  "tier": "hard",
+  "rating": 2394,
+  "startFen": "r4Bk1/pp3p2/7p/3N2p1/2BpPbbq/2P5/PPQ2KP1/R3R3 w - - 1 27",
+  "setupMove": "f2g1",
+  "par": 4,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "06o2P",
+  "tier": "hard",
+  "rating": 2029,
+  "startFen": "5r2/p5R1/2pp1r2/4bP1k/8/2PB2p1/PP3pP1/3K1R2 b - - 4 39",
+  "setupMove": "h5h6",
+  "par": 4,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "07LLu",
+  "tier": "hard",
+  "rating": 2136,
+  "startFen": "4r3/6k1/6p1/3p1p2/1p4n1/1P1BbK2/2P1R1P1/5R2 w - - 0 35",
+  "setupMove": "f1a1",
+  "par": 4,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "07OUg",
+  "tier": "hard",
+  "rating": 2367,
+  "startFen": "1k3rr1/2p5/1p5b/1P1NPBqp/2bP4/5Q1K/2P2R2/R7 b - - 0 33",
+  "setupMove": "f8f5",
+  "par": 5,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "07R2h",
+  "tier": "hard",
+  "rating": 2061,
+  "startFen": "3q2k1/1Q2rpb1/3Pn2p/2P3p1/8/P5P1/1P4BP/3R2K1 w - - 1 36",
+  "setupMove": "d6e7",
+  "par": 5,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "08Gve",
+  "tier": "hard",
+  "rating": 1926,
+  "startFen": "2r2r1k/4b2p/p2pQnpP/6B1/1p3P2/8/PPq3P1/K2RR3 b - - 1 23",
+  "setupMove": "c8e8",
+  "par": 4,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "08QBB",
+  "tier": "hard",
+  "rating": 1916,
+  "startFen": "2Q5/3P1bk1/p7/1p6/8/P3P3/5PP1/1qn3K1 w - - 1 48",
+  "setupMove": "d7d8q",
+  "par": 4,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "09frX",
+  "tier": "hard",
+  "rating": 1916,
+  "startFen": "3r4/4R1b1/1R2Bp2/7k/4P1pN/P1r5/2n2P1P/2B3K1 w - - 2 23",
+  "setupMove": "e7g7",
+  "par": 4,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0A05m",
+  "tier": "hard",
+  "rating": 2666,
+  "startFen": "5rk1/pp4p1/7p/3pp2Q/P2n4/2Pbq2N/1P1N1bPP/R1BK3R w - - 1 21",
+  "setupMove": "c3d4",
+  "par": 5,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0A8qq",
+  "tier": "hard",
+  "rating": 2066,
+  "startFen": "r2qkb1r/pp1n1B2/2pQ3p/4P1pn/6b1/2N2NP1/PPP5/R1B2RK1 b - - 4 15",
+  "setupMove": "e8f7",
+  "par": 5,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0ARwj",
+  "tier": "hard",
+  "rating": 1977,
+  "startFen": "r7/p3pp1N/1pn3k1/2p2b1R/4r3/1P3KP1/P1P1B3/R7 b - - 6 24",
+  "setupMove": "e4e2",
+  "par": 4,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0B6Rf",
+  "tier": "hard",
+  "rating": 1921,
+  "startFen": "8/8/8/1P4Rp/6b1/6k1/5p2/5K2 w - - 0 51",
+  "setupMove": "b5b6",
+  "par": 4,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0BAXi",
+  "tier": "hard",
+  "rating": 2063,
+  "startFen": "5r1k/1Q6/p2pB1pp/3Pp3/3pP3/3P2PP/PP4RK/5qb1 w - - 3 30",
+  "setupMove": "h2h1",
+  "par": 4,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0BCjC",
+  "tier": "hard",
+  "rating": 2160,
+  "startFen": "rnb2rk1/3q1pp1/p2p3p/1p1P2NQ/8/3B4/PP3PPP/R3R1K1 b - - 1 16",
+  "setupMove": "d7g4",
+  "par": 4,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0BebU",
+  "tier": "hard",
+  "rating": 2811,
+  "startFen": "r7/1pq1rp1R/6p1/pp1p2kR/P2Pn1N1/3QP3/4KPP1/8 b - - 2 28",
+  "setupMove": "g5g4",
+  "par": 4,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0BjAV",
+  "tier": "hard",
+  "rating": 2283,
+  "startFen": "5R2/8/P7/8/6k1/2b3pp/8/7K w - - 2 52",
+  "setupMove": "a6a7",
+  "par": 5,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0Bsf6",
+  "tier": "hard",
+  "rating": 2237,
+  "startFen": "r4rk1/pp3ppp/5b2/3qB3/3P4/5PQB/bP5P/K2R2R1 b - - 1 23",
+  "setupMove": "a2b3",
+  "par": 4,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0CMCY",
+  "tier": "hard",
+  "rating": 2254,
+  "startFen": "2kr3r/1pp1q1b1/p2p1n1p/1N1Pp1p1/2B1PpbP/Q7/PPPB2P1/2K1R2R b - - 1 16",
+  "setupMove": "a6b5",
+  "par": 4,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0CYaa",
+  "tier": "hard",
+  "rating": 1922,
+  "startFen": "2r2r1k/4b1pp/4Q3/q2pp1P1/1p1pP3/1P1P4/1PP2PK1/2B4R b - - 3 27",
+  "setupMove": "a5c7",
+  "par": 5,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0DP6z",
+  "tier": "hard",
+  "rating": 2287,
+  "startFen": "4Q3/4Np1k/4p2p/p2pP1p1/4nP1K/1P3NP1/P1q4P/5b2 w - - 0 36",
+  "setupMove": "h4h5",
+  "par": 4,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0Dy6Q",
+  "tier": "hard",
+  "rating": 2290,
+  "startFen": "5rk1/1bppn3/ppn1p1PR/8/4P3/1Pq5/P1P5/2K4Q b - - 1 27",
+  "setupMove": "c6d4",
+  "par": 4,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0EKF0",
+  "tier": "hard",
+  "rating": 2174,
+  "startFen": "2r2rk1/4qppp/pp2p3/1Qnn4/3B4/P3PP2/1P2BP1P/R5RK b - - 1 19",
+  "setupMove": "a6b5",
+  "par": 4,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0FALL",
+  "tier": "hard",
+  "rating": 2560,
+  "startFen": "6k1/2q2pbp/B1Np2p1/n2P4/4Q3/r3B2P/1r3PP1/4R1K1 b - - 2 28",
+  "setupMove": "a5c6",
+  "par": 4,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0FOSW",
+  "tier": "hard",
+  "rating": 2067,
+  "startFen": "r5k1/1r2pR1p/3p4/6PQ/4b2P/qPN5/P1P5/1K1R4 w - - 1 26",
+  "setupMove": "c3e4",
+  "par": 4,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0FVlD",
+  "tier": "hard",
+  "rating": 2298,
+  "startFen": "2kr3r/ppp2p2/2n5/2Pp2p1/1P1P2n1/4P1Pq/1P2NPNP/R1BQR1K1 w - - 4 18",
+  "setupMove": "f2f3",
+  "par": 5,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0GJwI",
+  "tier": "hard",
+  "rating": 2283,
+  "startFen": "1rk4r/p4p2/2p1p3/2N4q/3Pp1p1/2P1P1Q1/PP3P2/R3RK2 w - - 3 25",
+  "setupMove": "g3d6",
+  "par": 4,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0GomC",
+  "tier": "hard",
+  "rating": 1928,
+  "startFen": "7k/p1p4p/1p2n1p1/3pQ3/3P1nN1/2PB2qP/PP4P1/6K1 b - - 17 32",
+  "setupMove": "h8g8",
+  "par": 4,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0H1aa",
+  "tier": "hard",
+  "rating": 2272,
+  "startFen": "8/8/P6p/6p1/5n1k/5P2/4q1PK/6Q1 b - - 3 45",
+  "setupMove": "e2a6",
+  "par": 4,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0HIfF",
+  "tier": "hard",
+  "rating": 2216,
+  "startFen": "7k/p1r2rp1/1p2p1Qp/1P1p1p1R/4qP2/4b2R/P1P3PP/7K b - - 1 31",
+  "setupMove": "e3c5",
+  "par": 4,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0HLAQ",
+  "tier": "hard",
+  "rating": 2399,
+  "startFen": "3r1rk1/pbp1qppp/1p2p3/4b3/2PB2Q1/5P1N/PP2KP1P/3R2R1 b - - 6 19",
+  "setupMove": "e5f6",
+  "par": 5,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0HdH1",
+  "tier": "hard",
+  "rating": 2295,
+  "startFen": "5r1k/6p1/2QBB2p/3Pb1q1/4p3/4P1p1/1P3P1P/2R3K1 w - - 0 35",
+  "setupMove": "f2g3",
+  "par": 5,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0HzHQ",
+  "tier": "hard",
+  "rating": 1905,
+  "startFen": "r5k1/3n2b1/p3Q3/1p1p4/8/P1q1PB1P/5PK1/8 b - - 0 36",
+  "setupMove": "g8h7",
+  "par": 4,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0ISms",
+  "tier": "hard",
+  "rating": 1905,
+  "startFen": "1R6/p1rkr3/2p1p3/3q1p2/3P1Q2/8/P5PP/1R4K1 b - - 13 30",
+  "setupMove": "d5e4",
+  "par": 4,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0Ihsl",
+  "tier": "hard",
+  "rating": 2295,
+  "startFen": "4r2k/P1R2Bp1/3P4/8/5q2/7P/4nK1P/5Q2 w - - 5 45",
+  "setupMove": "f2e1",
+  "par": 4,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0Inzg",
+  "tier": "hard",
+  "rating": 2020,
+  "startFen": "6rk/1Q4pp/5nrq/p4p2/1b1BpP2/4P1PP/PP1N3K/3R2R1 w - - 14 33",
+  "setupMove": "d2c4",
+  "par": 5,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0JdqI",
+  "tier": "hard",
+  "rating": 2330,
+  "startFen": "8/4Rp1k/p5pp/3q4/8/P3Q1PP/5P1K/3r4 w - - 6 41",
+  "setupMove": "g3g4",
+  "par": 5,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0JhHh",
+  "tier": "hard",
+  "rating": 1940,
+  "startFen": "3RQ3/5pk1/5pp1/p6p/P7/1Br3KP/5PP1/6q1 w - - 8 35",
+  "setupMove": "f2f3",
+  "par": 5,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0K3Ll",
+  "tier": "hard",
+  "rating": 2223,
+  "startFen": "2kr2r1/pb3p1p/1p2p3/1P6/2Pp4/P3PN2/4BPPP/BN3RK1 w - - 0 17",
+  "setupMove": "f3d4",
+  "par": 4,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0K45A",
+  "tier": "hard",
+  "rating": 2435,
+  "startFen": "4r1k1/1p1R1pp1/p5p1/7q/2Q4n/1B6/PPP2PK1/5R2 w - - 0 33",
+  "setupMove": "g2g3",
+  "par": 4,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0K4vt",
+  "tier": "hard",
+  "rating": 2349,
+  "startFen": "2Q5/4b3/r3r1pk/5p2/p3p3/8/1P3PPK/8 b - - 1 44",
+  "setupMove": "a6c6",
+  "par": 6,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0KfyN",
+  "tier": "hard",
+  "rating": 2738,
+  "startFen": "k2r1r2/p5p1/BpR1n3/3p1q2/N2P2b1/P3P1B1/1P5P/2Q3K1 b - - 6 29",
+  "setupMove": "e6g5",
+  "par": 4,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0LQm2",
+  "tier": "hard",
+  "rating": 2272,
+  "startFen": "r5k1/5Npp/4Q3/3p2P1/2pPn3/2n5/6PP/2q1BRK1 w - - 7 35",
+  "setupMove": "g5g6",
+  "par": 4,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0M2ey",
+  "tier": "hard",
+  "rating": 2111,
+  "startFen": "2r5/4bkpP/1p3p2/p2pN2Q/P2PpP1P/qr2P3/1R6/1K5R b - - 2 29",
+  "setupMove": "f7e6",
+  "par": 4,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0M5Ln",
+  "tier": "hard",
+  "rating": 2061,
+  "startFen": "2rk2r1/1R3p2/R1n1p3/3pP3/Q1pP1q1p/2P1nN1P/5BP1/6K1 w - - 8 27",
+  "setupMove": "a6c6",
+  "par": 5,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0MLpv",
+  "tier": "hard",
+  "rating": 2034,
+  "startFen": "4r1k1/p1p3pp/8/5p2/3P1Qb1/q1P1B1PP/P2R1P2/2K4R w - - 1 21",
+  "setupMove": "c1b1",
+  "par": 4,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0MMzd",
+  "tier": "hard",
+  "rating": 2228,
+  "startFen": "8/p3rk2/6p1/3p4/2PBpPq1/1Q3bPr/P4R1P/4R1K1 w - - 1 31",
+  "setupMove": "c4d5",
+  "par": 4,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0MWde",
+  "tier": "hard",
+  "rating": 2141,
+  "startFen": "r4r2/p1b1qpk1/1p2pNp1/4P1PP/3P1B1Q/1n6/p3N3/2RK2R1 b - - 2 33",
+  "setupMove": "b3c1",
+  "par": 4,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0MvjA",
+  "tier": "hard",
+  "rating": 2327,
+  "startFen": "r1bqk2r/1p1n1pp1/p7/3p3p/3Pp1n1/1PN1PP2/P2NB1PK/R1BQ1R2 w kq - 1 13",
+  "setupMove": "f3g4",
+  "par": 7,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0N5vw",
+  "tier": "hard",
+  "rating": 2306,
+  "startFen": "3r2k1/1p2qppp/4p1b1/p1R1Q3/Pb1N4/1P2P2P/1B3PP1/3R2K1 b - - 0 22",
+  "setupMove": "e7c5",
+  "par": 4,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0NOeR",
+  "tier": "hard",
+  "rating": 1927,
+  "startFen": "r6k/ppp2Q2/3P3p/6p1/2BPP1bq/2P3n1/PP4P1/RNB3K1 w - - 5 22",
+  "setupMove": "d6d7",
+  "par": 4,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0Ngid",
+  "tier": "hard",
+  "rating": 2248,
+  "startFen": "6k1/8/p3q3/1pQ1n1B1/2Pp4/PP1P2P1/5P2/6K1 w - - 1 37",
+  "setupMove": "f2f4",
+  "par": 6,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0NrSv",
+  "tier": "hard",
+  "rating": 2203,
+  "startFen": "2R5/3r2pk/4Np1p/1p2nK2/2p5/r6P/P5P1/8 b - - 15 41",
+  "setupMove": "a3a2",
+  "par": 4,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0O3GZ",
+  "tier": "hard",
+  "rating": 2354,
+  "startFen": "4Q3/k1p3r1/p1R5/1p3p1p/1P4r1/1P4P1/1P2pq1P/6RK b - - 3 29",
+  "setupMove": "g4e4",
+  "par": 4,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0O753",
+  "tier": "hard",
+  "rating": 1993,
+  "startFen": "5b1r/p1Qr2p1/2Np4/3N1Pkq/6n1/4P2p/PPP3P1/R1B2RK1 w - - 3 22",
+  "setupMove": "c7d7",
+  "par": 4,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0OcBn",
+  "tier": "hard",
+  "rating": 2288,
+  "startFen": "8/3k1rp1/p2p1p2/2pP1P2/2P5/P3Q3/2q3PP/1rB1R1K1 b - - 2 34",
+  "setupMove": "c2c4",
+  "par": 4,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0OeXJ",
+  "tier": "hard",
+  "rating": 2131,
+  "startFen": "5rk1/5ppp/3Q1b2/3BN3/PP2Pn2/7r/2q2PP1/R3R1K1 w - - 0 22",
+  "setupMove": "e5f7",
+  "par": 4,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0PQbc",
+  "tier": "hard",
+  "rating": 2676,
+  "startFen": "r1bk3r/ppN2pp1/8/3p4/1B3Pp1/3BP1q1/PPP3P1/R2Q1RK1 w - - 1 16",
+  "setupMove": "f1e1",
+  "par": 6,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0PSj5",
+  "tier": "hard",
+  "rating": 2201,
+  "startFen": "6k1/5p2/RP1pb2p/3r4/3b2p1/6Pn/4B1PP/1R2N1K1 w - - 5 35",
+  "setupMove": "g1h1",
+  "par": 4,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0PbDU",
+  "tier": "hard",
+  "rating": 2017,
+  "startFen": "6k1/1R3p2/1N1b2p1/1P1p1p2/3P2qp/2P3P1/1Q3P1P/6K1 w - - 0 29",
+  "setupMove": "b6d7",
+  "par": 5,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0PhbW",
+  "tier": "hard",
+  "rating": 2660,
+  "startFen": "3r1rk1/4R2p/p4pp1/1p1N4/4QPPb/8/P4q1P/3R3K b - - 1 27",
+  "setupMove": "f6f5",
+  "par": 5,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0QW0O",
+  "tier": "hard",
+  "rating": 1902,
+  "startFen": "8/1Q6/1p1p2qk/3P3p/1P1P1ppP/8/5PPK/8 w - - 1 36",
+  "setupMove": "b7e7",
+  "par": 4,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0Qrg1",
+  "tier": "hard",
+  "rating": 2186,
+  "startFen": "r1b1k2r/1p1nb1pp/1qn1p3/p2pP1N1/1P1P4/P7/2B3PP/RNBQK2R b KQkq - 1 13",
+  "setupMove": "b6d4",
+  "par": 4,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0QydF",
+  "tier": "hard",
+  "rating": 1986,
+  "startFen": "2k1r3/Qppq2p1/5n2/3p4/1b4P1/1PNP4/PK6/2R5 b - - 0 26",
+  "setupMove": "c7c6",
+  "par": 4,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0R2Wk",
+  "tier": "hard",
+  "rating": 2330,
+  "startFen": "1k3r2/ppp3pp/5q2/3Pp3/3n4/1B1PQ3/PPP3PP/RNB3KR w - - 5 18",
+  "setupMove": "b1d2",
+  "par": 4,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0RR8r",
+  "tier": "hard",
+  "rating": 2337,
+  "startFen": "r5k1/ppp2ppp/2nb2r1/8/2PPn3/PP1B1N1q/1B3PPP/R2QR1K1 w - - 2 17",
+  "setupMove": "g2g3",
+  "par": 4,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0S6rQ",
+  "tier": "hard",
+  "rating": 1957,
+  "startFen": "4r2r/p1p2kp1/1p2p3/2b5/2P1QPq1/1P4P1/PB2R2P/R6K w - - 3 26",
+  "setupMove": "e4e5",
+  "par": 4,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0TDcA",
+  "tier": "hard",
+  "rating": 2324,
+  "startFen": "3rr1k1/1b3p2/5P1p/1p2qNp1/p1p1p3/P3QP1B/1P5P/6RK b - - 1 34",
+  "setupMove": "e4f3",
+  "par": 5,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0TS1B",
+  "tier": "hard",
+  "rating": 2178,
+  "startFen": "5R2/3P3k/6qp/p7/2P5/1P2n3/P2R3P/7K w - - 1 45",
+  "setupMove": "d7d8q",
+  "par": 4,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0TpMR",
+  "tier": "hard",
+  "rating": 2323,
+  "startFen": "4rk2/2bR1p1p/4p2P/p5B1/1pr5/8/PP6/1K4R1 b - - 10 37",
+  "setupMove": "c7f4",
+  "par": 4,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0TwfH",
+  "tier": "hard",
+  "rating": 1994,
+  "startFen": "8/1Q5p/2p1Q1pk/4Ppq1/3Pp3/4P1br/6P1/2B2RK1 w - - 0 36",
+  "setupMove": "f1f5",
+  "par": 5,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0UNkj",
+  "tier": "hard",
+  "rating": 1981,
+  "startFen": "r4rk1/3QRNpp/2p1p3/8/3Pn3/4P3/1P1qBPPP/2R3K1 w - - 1 24",
+  "setupMove": "f7g5",
+  "par": 4,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0UNli",
+  "tier": "hard",
+  "rating": 2008,
+  "startFen": "2b2rk1/1pp2ppp/2qb4/7Q/2PB4/1P6/2P2PP1/5KR1 b - - 2 19",
+  "setupMove": "g7g6",
+  "par": 5,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0UlS3",
+  "tier": "hard",
+  "rating": 2284,
+  "startFen": "q4r2/4bpkp/p1p2p1N/3p1QP1/3P4/7P/2n3R1/6K1 b - - 2 30",
+  "setupMove": "f6g5",
+  "par": 5,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0Vq89",
+  "tier": "hard",
+  "rating": 1904,
+  "startFen": "3r1rk1/4n1p1/Q6p/1p6/4Rn2/1PP3N1/P5PP/6K1 w - - 2 33",
+  "setupMove": "e4e7",
+  "par": 4,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0VqTM",
+  "tier": "hard",
+  "rating": 2360,
+  "startFen": "2rr1k2/Q7/p3p1p1/4Pb2/1p2qPR1/1P6/PBP5/1KR5 w - - 7 43",
+  "setupMove": "g4h4",
+  "par": 5,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0WAfv",
+  "tier": "hard",
+  "rating": 2230,
+  "startFen": "3r4/pb2ppkp/6p1/1p3q2/1PN2n2/2N5/1PPQ1PPP/3R1RK1 w - - 1 22",
+  "setupMove": "d2d8",
+  "par": 4,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0Wxnt",
+  "tier": "hard",
+  "rating": 2323,
+  "startFen": "5nrk/5Rpp/4p2P/4P1Q1/3P4/4P2K/6P1/4q3 b - - 0 39",
+  "setupMove": "f8g6",
+  "par": 4,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0Y3QA",
+  "tier": "hard",
+  "rating": 2147,
+  "startFen": "4r1k1/3R2p1/4PPKp/p1p5/1b5P/5P2/P1p5/8 b - - 0 48",
+  "setupMove": "c2c1q",
+  "par": 4,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0YZ0j",
+  "tier": "hard",
+  "rating": 2543,
+  "startFen": "r5k1/5r1p/1n1p2pQ/p1p1pN2/P3P3/1pPP1q2/1P3P2/2K3RR b - - 1 26",
+  "setupMove": "f3d3",
+  "par": 4,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0YhtY",
+  "tier": "hard",
+  "rating": 2173,
+  "startFen": "1k1r1qr1/8/pp6/1P5p/7p/3B3b/2QN1PP1/R3R1K1 w - - 3 27",
+  "setupMove": "b5a6",
+  "par": 4,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0a3kJ",
+  "tier": "hard",
+  "rating": 1922,
+  "startFen": "1r3r1k/p4p1p/1qp2PpQ/2bpp3/8/2P5/PP4PP/R1B2R1K b - - 3 20",
+  "setupMove": "f8g8",
+  "par": 4,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0aGU4",
+  "tier": "hard",
+  "rating": 2290,
+  "startFen": "1rbr2k1/p1q2pbp/1p4p1/2n3B1/3p2P1/1N5P/PPB1QP2/2R1R1K1 b - - 1 25",
+  "setupMove": "d8d5",
+  "par": 4,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0aR3G",
+  "tier": "hard",
+  "rating": 2226,
+  "startFen": "2krr3/pp4pQ/1qn5/8/5B1b/1PP5/P4PPP/RN2R1K1 w - - 1 18",
+  "setupMove": "e1f1",
+  "par": 4,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0b2yn",
+  "tier": "hard",
+  "rating": 2145,
+  "startFen": "4R3/6pk/3Q3p/3b4/2p2P2/5P2/r4qPP/4R2K w - - 4 34",
+  "setupMove": "e1g1",
+  "par": 4,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0bFxt",
+  "tier": "hard",
+  "rating": 2077,
+  "startFen": "r1r5/ppp2RB1/1bnk4/8/2B1n3/2P5/PP1N2PP/R5K1 w - - 9 23",
+  "setupMove": "g1h1",
+  "par": 4,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0cIXm",
+  "tier": "hard",
+  "rating": 2124,
+  "startFen": "3q4/1p6/p5pQ/7b/7r/1P3Pk1/1B4P1/R3r1K1 w - - 0 40",
+  "setupMove": "a1e1",
+  "par": 4,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0dr8p",
+  "tier": "hard",
+  "rating": 1921,
+  "startFen": "2r5/1bkp3p/p2bp3/1p6/2P1q3/1B4Q1/PP3PPP/RNB2RK1 w - - 5 20",
+  "setupMove": "g3f3",
+  "par": 4,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0e989",
+  "tier": "hard",
+  "rating": 2395,
+  "startFen": "3q1r1k/5p1p/p1R1pp1B/3n4/3P4/6Q1/r4PPP/2R3K1 b - - 1 23",
+  "setupMove": "f8g8",
+  "par": 4,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0eIDy",
+  "tier": "hard",
+  "rating": 2544,
+  "startFen": "8/1p6/p1pR2n1/4p1k1/PP2PrB1/N1PPb1KP/3r4/R7 w - - 11 35",
+  "setupMove": "a3c4",
+  "par": 4,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0f37X",
+  "tier": "hard",
+  "rating": 2088,
+  "startFen": "6k1/8/6p1/3R1p2/6K1/3Q1P1P/P4qP1/4r3 w - - 0 38",
+  "setupMove": "g4g5",
+  "par": 5,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0f3zy",
+  "tier": "hard",
+  "rating": 2427,
+  "startFen": "6k1/1R4pp/4pn1r/3pN3/3P1PK1/4P3/5r1P/4R3 w - - 7 40",
+  "setupMove": "g4g3",
+  "par": 5,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0fs1z",
+  "tier": "hard",
+  "rating": 2498,
+  "startFen": "5rB1/7k/2P3pP/3pB1P1/2nP4/1b6/rb6/1K2RR2 b - - 3 35",
+  "setupMove": "h7g8",
+  "par": 4,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0fvr7",
+  "tier": "hard",
+  "rating": 2318,
+  "startFen": "8/5pk1/6p1/1N2p1Kp/p1n1R3/2P3PP/5r2/8 w - - 0 42",
+  "setupMove": "e4c4",
+  "par": 4,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ }
+]

@@ -1,0 +1,1502 @@
+[
+ {
+  "id": "007en",
+  "tier": "medium",
+  "rating": 1766,
+  "startFen": "rn3rk1/4pp1p/3p2pB/2q4P/3bP1b1/Pp2Q3/1P2B3/1K1R2NR w - - 0 20",
+  "setupMove": "e3d4",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "00J1t",
+  "tier": "medium",
+  "rating": 1678,
+  "startFen": "r1qr3k/pp3pB1/1np1pb2/8/3P3P/2N2PR1/PP1Q2P1/2KR4 b - - 0 22",
+  "setupMove": "f6g7",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "00JR7",
+  "tier": "medium",
+  "rating": 1445,
+  "startFen": "r4rk1/pp2q1p1/2p1p2p/3nP1pP/3P2P1/2PQ1R2/PPB5/R5K1 b - - 1 23",
+  "setupMove": "f8f3",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "00Kbj",
+  "tier": "medium",
+  "rating": 1481,
+  "startFen": "8/8/6p1/PR3p2/1P3k2/7P/r5P1/7K w - - 1 39",
+  "setupMove": "h3h4",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "00NHK",
+  "tier": "medium",
+  "rating": 1847,
+  "startFen": "r1b2rk1/1p2b1p1/pqn1p1P1/3pP3/1P1P4/P1N1P3/6P1/R2QK2R b KQ - 0 17",
+  "setupMove": "c6e5",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "00Pr6",
+  "tier": "medium",
+  "rating": 1496,
+  "startFen": "r1b2rk1/p4ppp/2p5/6q1/2p3P1/3P1Q1P/PPP5/1K2RR2 b - - 0 17",
+  "setupMove": "c4d3",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "00j3i",
+  "tier": "medium",
+  "rating": 1416,
+  "startFen": "5rk1/R5p1/5q1p/8/3p4/1P4Q1/P3rPPP/5RK1 w - - 2 38",
+  "setupMove": "g3g4",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "00rw0",
+  "tier": "medium",
+  "rating": 1727,
+  "startFen": "r2q3k/5Pb1/2n3Bp/3p2pP/pp1P2Q1/6B1/1PP5/6K1 b - - 0 39",
+  "setupMove": "g7d4",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "00ueM",
+  "tier": "medium",
+  "rating": 1761,
+  "startFen": "2kr4/2pR4/2P1K1P1/8/8/p3n3/8/8 b - - 1 49",
+  "setupMove": "a3a2",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "00wUm",
+  "tier": "medium",
+  "rating": 1544,
+  "startFen": "5rk1/pR1Q1ppp/4N3/3p1n2/8/7P/q1r2PP1/4R1K1 b - - 0 28",
+  "setupMove": "c2f2",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0156a",
+  "tier": "medium",
+  "rating": 1514,
+  "startFen": "2k4r/ppp1q1p1/3b2p1/3Q4/1P2NPn1/P1P3N1/6P1/R1B2RKr w - - 5 21",
+  "setupMove": "g3h1",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "016rF",
+  "tier": "medium",
+  "rating": 1770,
+  "startFen": "r4qk1/pppb2p1/1bnp1R2/6N1/8/2NQ2B1/PP4PP/7K b - - 0 19",
+  "setupMove": "f8f6",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "01BeL",
+  "tier": "medium",
+  "rating": 1521,
+  "startFen": "8/5Q1R/pr5p/6p1/5p1k/q6P/2P2PPK/8 w - - 6 39",
+  "setupMove": "f7g7",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "01FmQ",
+  "tier": "medium",
+  "rating": 1643,
+  "startFen": "3r2k1/2B3pp/1Q2Pp2/2b5/P3n3/5N2/2q2PPP/5RK1 w - - 4 32",
+  "setupMove": "e6e7",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "01Gjl",
+  "tier": "medium",
+  "rating": 1750,
+  "startFen": "rn2k2N/p1pn3p/8/3b2B1/3p4/N7/PP4PP/4R1K1 b - - 3 21",
+  "setupMove": "e8f8",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "01LaG",
+  "tier": "medium",
+  "rating": 1574,
+  "startFen": "6rk/R7/3p1q1p/3P2pQ/1P2P3/3P1p1P/P1r3PB/1R5K w - - 0 28",
+  "setupMove": "a7f7",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "01PIs",
+  "tier": "medium",
+  "rating": 1899,
+  "startFen": "r7/6kp/5rp1/K2Bn3/4P3/2P3b1/PP1B2P1/R6R w - - 1 33",
+  "setupMove": "a5b4",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "01Sr1",
+  "tier": "medium",
+  "rating": 1790,
+  "startFen": "1r4k1/6pp/4p3/QBR2p2/3q4/B3nP1P/P5P1/6K1 w - - 0 35",
+  "setupMove": "a5a7",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "01YV3",
+  "tier": "medium",
+  "rating": 1444,
+  "startFen": "1r3rk1/p3R2p/3p2pQ/3q4/3b4/3p4/PP3PPP/1RB4K b - - 3 22",
+  "setupMove": "f8f2",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "01dKr",
+  "tier": "medium",
+  "rating": 1413,
+  "startFen": "1Q1k3r/5p2/2r1p3/3pP2q/6p1/3B2P1/2P4n/5R1K b - - 2 35",
+  "setupMove": "c6c8",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "01h56",
+  "tier": "medium",
+  "rating": 1706,
+  "startFen": "r3n3/2q1b1kp/3p2p1/2n2N2/2B1P3/8/1Pp2B2/1NKR3R b - - 1 29",
+  "setupMove": "g7h8",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "01riG",
+  "tier": "medium",
+  "rating": 1466,
+  "startFen": "8/8/6kp/2R1PNp1/2P5/1P4K1/r7/4n3 w - - 5 35",
+  "setupMove": "e5e6",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "01wET",
+  "tier": "medium",
+  "rating": 1880,
+  "startFen": "6k1/1P1B1p2/4p3/3pP1Pp/P4K1P/2r5/1R3QP1/2q5 w - - 5 39",
+  "setupMove": "f2d2",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "02AXB",
+  "tier": "medium",
+  "rating": 1663,
+  "startFen": "8/2pr2k1/4N1p1/1p5p/8/2P1Q1K1/2q3PP/8 b - - 10 41",
+  "setupMove": "g7h8",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "02GAF",
+  "tier": "medium",
+  "rating": 1516,
+  "startFen": "8/R5k1/8/1p4KP/p4p2/1r3P2/8/8 b - - 6 43",
+  "setupMove": "g7h8",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "02I6H",
+  "tier": "medium",
+  "rating": 1766,
+  "startFen": "r3k1nr/pp1b1ppp/2nB4/1B1N4/Q2P4/7P/Pq1NKP2/8 b kq - 1 15",
+  "setupMove": "e8c8",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "02LtX",
+  "tier": "medium",
+  "rating": 1723,
+  "startFen": "r3k2r/ppQ1n1p1/1p1R4/6p1/8/P3qP1b/BPP4P/5R1K b kq - 2 22",
+  "setupMove": "h3f1",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "02Uju",
+  "tier": "medium",
+  "rating": 1741,
+  "startFen": "8/1pp2pk1/p4Np1/4P1K1/1Pr5/r1P4R/8/8 b - - 5 41",
+  "setupMove": "a3c3",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "02fS6",
+  "tier": "medium",
+  "rating": 1726,
+  "startFen": "r1b2rk1/pppp1ppp/8/8/1KBbP3/6N1/PPq4P/R1B2Q1R w - - 0 15",
+  "setupMove": "f1d3",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "02pbx",
+  "tier": "medium",
+  "rating": 1501,
+  "startFen": "1k3r2/2p3pp/3bQ3/p7/N7/4P3/1PP1q1PP/3R2K1 w - - 1 25",
+  "setupMove": "a4c3",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "02zCV",
+  "tier": "medium",
+  "rating": 1684,
+  "startFen": "r4k1r/1pp2pp1/1b1p1P2/pP6/P2P1nq1/1Q3N1p/3N1P2/R1B1RB1K w - - 0 21",
+  "setupMove": "d2e4",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "033eV",
+  "tier": "medium",
+  "rating": 1578,
+  "startFen": "r5kr/2p3b1/1p2Q2p/p2p4/8/2P2PP1/PPK1bqP1/R6R b - - 1 26",
+  "setupMove": "g8h7",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "03AWC",
+  "tier": "medium",
+  "rating": 1544,
+  "startFen": "2r1r1k1/1b3p1p/p2q1Bp1/3P2P1/1p2p1R1/3B3Q/PPP4P/1K6 b - - 1 23",
+  "setupMove": "e4d3",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "03Iup",
+  "tier": "medium",
+  "rating": 1893,
+  "startFen": "3R2k1/1rp2pp1/p1p1q1bp/8/4p3/P1B1Q3/1PP2PPP/6K1 b - - 0 22",
+  "setupMove": "g8h7",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "03P5a",
+  "tier": "medium",
+  "rating": 1692,
+  "startFen": "r1b5/1p1k1R1p/p7/5N2/1B6/3B1q2/PP5P/1K6 b - - 0 32",
+  "setupMove": "d7d8",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "03TE2",
+  "tier": "medium",
+  "rating": 1636,
+  "startFen": "r4br1/pp1kp3/2p1N2n/3n4/7q/5Q2/P4PP1/3RRK2 b - - 1 30",
+  "setupMove": "h6g4",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "03TdQ",
+  "tier": "medium",
+  "rating": 1859,
+  "startFen": "8/3R4/5pkp/8/1n5N/6P1/p5PK/r7 b - - 3 47",
+  "setupMove": "g6g5",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "03XcA",
+  "tier": "medium",
+  "rating": 1529,
+  "startFen": "Q7/pp1k1p1p/8/8/1b2q3/1bN5/1P3PPP/RN2K2R w KQ - 1 20",
+  "setupMove": "e1f1",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "03cdR",
+  "tier": "medium",
+  "rating": 1528,
+  "startFen": "2rr2k1/pp3ppp/1b4b1/3N1N2/6P1/P2QPPK1/1q5P/2RR4 b - - 1 24",
+  "setupMove": "c8c1",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "03cqT",
+  "tier": "medium",
+  "rating": 1661,
+  "startFen": "8/p6p/6k1/4bN2/6P1/1r5K/6P1/5R2 w - - 0 44",
+  "setupMove": "h3h4",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "03xkS",
+  "tier": "medium",
+  "rating": 1435,
+  "startFen": "8/1p3p1p/8/1R1P1p2/2P2k2/1P5P/1P1r2P1/7K w - - 3 32",
+  "setupMove": "b5b7",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "03xyI",
+  "tier": "medium",
+  "rating": 1775,
+  "startFen": "7b/4p1k1/p2p3p/2pPN3/b3nN1P/5q2/7K/6R1 b - - 1 37",
+  "setupMove": "g7f8",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "041in",
+  "tier": "medium",
+  "rating": 1419,
+  "startFen": "2r4k/8/8/p6N/np5P/6R1/P4r2/K5R1 b - - 3 38",
+  "setupMove": "c8c2",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "042eg",
+  "tier": "medium",
+  "rating": 1565,
+  "startFen": "8/5R1p/6pk/p2B4/3P1PPP/3b4/2p4K/1r6 b - - 0 40",
+  "setupMove": "c2c1q",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "043J0",
+  "tier": "medium",
+  "rating": 1568,
+  "startFen": "4R3/3n1pBk/2p4p/1b1p1P1N/8/1P4K1/6PP/5r2 b - - 4 31",
+  "setupMove": "f1f5",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "048EW",
+  "tier": "medium",
+  "rating": 1634,
+  "startFen": "2r1k2r/pp3p2/1q6/3p4/2pb4/2P3p1/PPQ2PP1/RN3RK1 w k - 0 21",
+  "setupMove": "c3d4",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "04NEh",
+  "tier": "medium",
+  "rating": 1499,
+  "startFen": "r4r1k/ppp1Nppp/3n4/8/8/3BPq2/PPPQ3R/6K1 b - - 5 22",
+  "setupMove": "f7f5",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "04YjK",
+  "tier": "medium",
+  "rating": 1511,
+  "startFen": "2k4r/5Rp1/2b1p3/4P2r/1P1B4/2P5/5PP1/1N2R1K1 w - - 1 26",
+  "setupMove": "g1f1",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "04c6u",
+  "tier": "medium",
+  "rating": 1530,
+  "startFen": "4rr1k/6pp/Q7/1pp5/3p3q/P2P4/1PP1RPPP/R5K1 w - - 3 25",
+  "setupMove": "a1e1",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "04ccX",
+  "tier": "medium",
+  "rating": 1465,
+  "startFen": "6k1/pb3p2/6pQ/3q4/8/3Br3/PPP3PP/5R1K w - - 1 29",
+  "setupMove": "f1g1",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "04d8N",
+  "tier": "medium",
+  "rating": 1565,
+  "startFen": "8/pkp5/1p2P1Q1/2b3p1/5q2/2N5/PPPK2PP/8 w - - 3 39",
+  "setupMove": "d2d3",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "04eCl",
+  "tier": "medium",
+  "rating": 1568,
+  "startFen": "8/pB3pp1/4k2p/8/2P5/P2nPKP1/3r1PP1/7R w - - 1 26",
+  "setupMove": "h1f1",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "04iY6",
+  "tier": "medium",
+  "rating": 1557,
+  "startFen": "4r3/2p5/2p5/2Pk4/KP1P1R2/P4P2/8/8 w - - 1 54",
+  "setupMove": "f4f7",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "053Un",
+  "tier": "medium",
+  "rating": 1647,
+  "startFen": "2b1Q3/6kr/p7/3p4/2pP1q2/1P6/P4PP1/R1R2K2 w - - 2 32",
+  "setupMove": "e8c8",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "055N4",
+  "tier": "medium",
+  "rating": 1875,
+  "startFen": "5r1k/pp1q1r1P/n1p2pQ1/3p4/8/1P6/PBPP1P2/2K3R1 b - - 0 24",
+  "setupMove": "d7d8",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "058MB",
+  "tier": "medium",
+  "rating": 1662,
+  "startFen": "1rR3k1/pQ1b2pp/1p3n2/q3N3/3P4/P7/1B3PPP/6K1 b - - 0 27",
+  "setupMove": "d7c8",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "05Cbv",
+  "tier": "medium",
+  "rating": 1428,
+  "startFen": "rn2k2r/pp2q1pp/2p5/5QB1/4n3/2P2p2/P1PK1PPP/3R1B1R w kq - 2 14",
+  "setupMove": "d2c1",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "05Hzy",
+  "tier": "medium",
+  "rating": 1583,
+  "startFen": "r1b2rk1/1p3ppp/p7/2p1q1P1/2Qp4/N7/PP4PP/4RRK1 b - - 1 18",
+  "setupMove": "e5g5",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "05QFF",
+  "tier": "medium",
+  "rating": 1692,
+  "startFen": "5r1k/4bp1p/pr5B/3nP3/1P6/P3R1RP/5PP1/6K1 b - - 2 30",
+  "setupMove": "d5e3",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "05RSR",
+  "tier": "medium",
+  "rating": 1833,
+  "startFen": "kr5r/Bppbnpp1/p2p1q1p/P2Bp3/2N1P3/1QPP4/1P3PPP/R4RK1 b - - 0 17",
+  "setupMove": "a8a7",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "05ZqP",
+  "tier": "medium",
+  "rating": 1583,
+  "startFen": "4r1k1/bp3pp1/p6p/3N1Q2/1P5N/P3P3/1qr2PPP/3R1K2 b - - 4 25",
+  "setupMove": "e8e5",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "05bd6",
+  "tier": "medium",
+  "rating": 1809,
+  "startFen": "2rqk2r/1p2b1p1/p3pnQ1/3p4/3P4/2P2N2/PP3PPP/R4RK1 b k - 0 16",
+  "setupMove": "e8f8",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "05lSk",
+  "tier": "medium",
+  "rating": 1569,
+  "startFen": "6k1/ppr2p2/2r1pBp1/4P1P1/2PpR3/1P6/P4P2/7K b - - 0 35",
+  "setupMove": "g8f8",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "05mYC",
+  "tier": "medium",
+  "rating": 1550,
+  "startFen": "r2q1r2/2pbn2k/p2p2B1/1p1P4/2P1pB1P/1P6/P4P2/b2Q1KR1 b - - 0 21",
+  "setupMove": "e7g6",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "05rPP",
+  "tier": "medium",
+  "rating": 1449,
+  "startFen": "8/1b4k1/p3pr2/1p3p1Q/3P1P2/1P2pNq1/2P5/2R2R1K w - - 0 35",
+  "setupMove": "f1g1",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "063io",
+  "tier": "medium",
+  "rating": 1513,
+  "startFen": "2br2k1/ppq1rppp/3p4/2pP4/2P5/1P1P2PP/P3RQBK/5R2 b - - 2 23",
+  "setupMove": "d8e8",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "06CF2",
+  "tier": "medium",
+  "rating": 1613,
+  "startFen": "1r2k2r/4bNp1/pq1pQ1Pp/5p1P/n2P4/2pB1b2/P1P2P2/K1BR2R1 w k - 3 26",
+  "setupMove": "c1a3",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "06CLu",
+  "tier": "medium",
+  "rating": 1858,
+  "startFen": "2rb2k1/p4ppp/1p1P4/8/3Q2N1/7P/PP2r1q1/K5R1 b - - 4 28",
+  "setupMove": "g2e4",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "06KGs",
+  "tier": "medium",
+  "rating": 1523,
+  "startFen": "r1b2rk1/p1p2ppp/2p5/7Q/1p6/4q3/PPP3PP/4RR1K b - - 3 16",
+  "setupMove": "e3h6",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "06VOw",
+  "tier": "medium",
+  "rating": 1510,
+  "startFen": "r1b1kb1r/2p2ppp/5n2/p5N1/2Q5/8/PPP2PqP/RNB1KR2 b Qkq - 1 13",
+  "setupMove": "c8a6",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "06Vrd",
+  "tier": "medium",
+  "rating": 1845,
+  "startFen": "4R3/p4pk1/2p4p/7N/7P/1b4P1/r2r4/4R1K1 b - - 1 31",
+  "setupMove": "g7g6",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "06b0A",
+  "tier": "medium",
+  "rating": 1748,
+  "startFen": "7k/1pp5/pb1p2Bp/4p1rP/PP2P1r1/2PP4/5PP1/R4RK1 w - - 3 29",
+  "setupMove": "d3d4",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "06g3s",
+  "tier": "medium",
+  "rating": 1586,
+  "startFen": "1Q1Rqk2/5pp1/1p6/p4PP1/P3r1K1/1P6/2P5/8 w - - 6 44",
+  "setupMove": "g4h5",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "06iSh",
+  "tier": "medium",
+  "rating": 1634,
+  "startFen": "3rr1k1/Qpp2pp1/2p4p/6b1/4q3/2P2N2/PP3PPP/R2R2K1 w - - 0 17",
+  "setupMove": "f3g5",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "06wTL",
+  "tier": "medium",
+  "rating": 1457,
+  "startFen": "8/p4pk1/8/3P3p/2p1bP1P/P3N3/1P1R4/K1r5 w - - 4 38",
+  "setupMove": "a1a2",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "06x5y",
+  "tier": "medium",
+  "rating": 1468,
+  "startFen": "3r1nrk/pp3p1p/2p1bPpQ/2q5/5R1R/2B4P/P1B3P1/7K b - - 11 34",
+  "setupMove": "c5c3",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0778a",
+  "tier": "medium",
+  "rating": 1439,
+  "startFen": "5rk1/2p3pp/2Q1pq2/p7/3rP3/8/PP1R1PPP/3R2K1 w - - 0 26",
+  "setupMove": "e4e5",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "079AP",
+  "tier": "medium",
+  "rating": 1710,
+  "startFen": "3r2k1/6pp/1BRP1p2/p7/8/8/1q3PPP/5BK1 b - - 1 35",
+  "setupMove": "d8d7",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "07Dg7",
+  "tier": "medium",
+  "rating": 1603,
+  "startFen": "3r2k1/1b5p/4pPp1/p1p2p2/2p2P2/P6R/1PQq2PP/6RK w - - 3 26",
+  "setupMove": "c2c4",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "07Hm3",
+  "tier": "medium",
+  "rating": 1484,
+  "startFen": "4Q3/p5rp/3ppp1k/4pq2/5n2/2P2P1P/PP4P1/R5RK w - - 9 33",
+  "setupMove": "h1h2",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "07Qhl",
+  "tier": "medium",
+  "rating": 1653,
+  "startFen": "8/6p1/7k/5KP1/R7/p3r3/8/8 b - - 0 47",
+  "setupMove": "h6h7",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "07TJ3",
+  "tier": "medium",
+  "rating": 1889,
+  "startFen": "r2qkb1r/pp4p1/n2pP3/4p3/2P1Np2/8/PP3PKB/R2Q1R2 b kq - 0 20",
+  "setupMove": "d8h4",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "07iaA",
+  "tier": "medium",
+  "rating": 1720,
+  "startFen": "2k3r1/pp4qp/4Rb1p/3p1n2/2pP4/2P2NrP/PPQN1P1K/R7 w - - 0 21",
+  "setupMove": "c2f5",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "07mi1",
+  "tier": "medium",
+  "rating": 1829,
+  "startFen": "3kb3/pp3qp1/3Q3p/2pNp3/P1PnP3/1P5P/7K/8 b - - 0 29",
+  "setupMove": "e8d7",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "07tSd",
+  "tier": "medium",
+  "rating": 1662,
+  "startFen": "2r2rk1/p5pp/b3p3/2P1B3/3PQ3/1R6/P2q2PP/4R1K1 w - - 3 25",
+  "setupMove": "b3g3",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "084QE",
+  "tier": "medium",
+  "rating": 1841,
+  "startFen": "rn3rk1/pp2b2p/2p2ppQ/7q/2BBP3/2N5/PPP5/2KR4 b - - 1 21",
+  "setupMove": "g8h8",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "08DLo",
+  "tier": "medium",
+  "rating": 1625,
+  "startFen": "4k3/2q3p1/7p/3pP1bP/1p6/pP1Q4/Pr2N3/K4R2 w - - 0 37",
+  "setupMove": "d3d5",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "08Lna",
+  "tier": "medium",
+  "rating": 1461,
+  "startFen": "2k5/p7/1p1P4/5p2/1P6/6pP/P1r2qP1/1Q4RK w - - 5 41",
+  "setupMove": "b1b3",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "08dio",
+  "tier": "medium",
+  "rating": 1768,
+  "startFen": "5R2/p2rp1k1/7p/1p3Qp1/3P1p2/1BP5/P1Pq1KPP/8 w - - 7 33",
+  "setupMove": "f2f3",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "08pDX",
+  "tier": "medium",
+  "rating": 1600,
+  "startFen": "5rk1/1Q3ppp/p7/7n/4p3/KBP1q2P/P7/3R4 b - - 1 35",
+  "setupMove": "h5f6",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "08s1W",
+  "tier": "medium",
+  "rating": 1594,
+  "startFen": "7k/1pq1b1pp/2n1Q3/1p1p3R/3P4/5PP1/rPP5/1K1R4 b - - 1 22",
+  "setupMove": "c7a5",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "08ubk",
+  "tier": "medium",
+  "rating": 1591,
+  "startFen": "3r1rk1/Q4ppp/4p3/8/8/3q3P/6P1/3R1R1K b - - 3 24",
+  "setupMove": "d3e2",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "091Mz",
+  "tier": "medium",
+  "rating": 1533,
+  "startFen": "5k2/1p6/p4pQ1/4pBp1/PP1bP3/5P2/1KP3P1/7q w - - 3 36",
+  "setupMove": "b2b3",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "097wk",
+  "tier": "medium",
+  "rating": 1687,
+  "startFen": "2r3k1/p3Qp1p/1p2p1p1/4P3/q4P2/6P1/PP5P/1K1R4 w - - 8 30",
+  "setupMove": "e7d7",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "09DAw",
+  "tier": "medium",
+  "rating": 1462,
+  "startFen": "8/1p3R2/p5p1/7p/P6k/1P5P/1r4P1/7K w - - 2 45",
+  "setupMove": "f7b7",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "09FUo",
+  "tier": "medium",
+  "rating": 1541,
+  "startFen": "r5k1/pp1b2p1/1q2p2p/3pPn2/6P1/2N1P3/PP3Q1P/1B3RK1 b - - 0 20",
+  "setupMove": "f5e3",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "09HsG",
+  "tier": "medium",
+  "rating": 1483,
+  "startFen": "3r1r1k/pQp3pp/8/4p3/1P2P2q/8/P4PPP/R1B2RK1 w - - 1 20",
+  "setupMove": "b7c7",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "09J8i",
+  "tier": "medium",
+  "rating": 1749,
+  "startFen": "r2r2k1/pp3pp1/5q1p/2P5/1Pbn4/2P1RQ2/P4PPP/RN4K1 w - - 0 19",
+  "setupMove": "f3f6",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "09KPu",
+  "tier": "medium",
+  "rating": 1485,
+  "startFen": "5r2/p4p2/5kpQ/3p1p2/5P2/2P3KP/Pr1q4/4RR2 w - - 0 30",
+  "setupMove": "h6f8",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "09c2M",
+  "tier": "medium",
+  "rating": 1482,
+  "startFen": "2r2rk1/3q2p1/2p1p1p1/5pN1/1b1P1Q2/7R/1P3PPP/3R2K1 b - - 1 27",
+  "setupMove": "b4e7",
+  "par": 3,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ }
+]
