@@ -47,7 +47,7 @@ scripts/      build-puzzles.ts, verify.ts, engine comparison scripts
 public/puzzles/  generated easy.json, medium.json, hard.json
 ```
 `src/game` and `src/engine` must run identically in the browser and Node. Environment-specific
-code lives only in `src/engine/stockfish.browser.ts` and `src/engine/stockfish.node.ts`.
+code lives only in `src/engine/stockfish-browser.ts` and `src/engine/stockfish-node.ts`.
 
 ## Puzzle data
 - Source: Lichess puzzle DB (CC0), `lichess_db_puzzle.csv.zst`, streamed + decompressed.
