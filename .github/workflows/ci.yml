@@ -1,0 +1,31 @@
+name: CI
+
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  checks:
+    name: TypeScript and tests
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-node@v7
+        with:
+          node-version: '24'
+
+      - name: Install dependencies
+        run: npx --yes pnpm@11 install --frozen-lockfile
+
+      - name: Check TypeScript
+        run: npx --yes pnpm@11 typecheck
+
+      - name: Run tests
+        run: npx --yes pnpm@11 exec vitest run --testTimeout 30000
