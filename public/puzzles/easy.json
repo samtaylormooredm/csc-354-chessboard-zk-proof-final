@@ -1,0 +1,1502 @@
+[
+ {
+  "id": "000Zo",
+  "tier": "easy",
+  "rating": 1363,
+  "startFen": "4r3/1k6/pp3r2/1b2P2p/3R1p2/P1R2P2/1P4PP/6K1 w - - 0 35",
+  "setupMove": "e5f6",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "000hf",
+  "tier": "easy",
+  "rating": 1395,
+  "startFen": "r1bqk2r/pp1nbNp1/2p1p2p/8/2BP4/1PN3P1/P3QP1P/3R1RK1 b kq - 0 19",
+  "setupMove": "e8f7",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "005nD",
+  "tier": "easy",
+  "rating": 1151,
+  "startFen": "3rk2r/2qn1pp1/p1Q1R3/3n3p/8/8/PP4PP/5R1K b k - 0 23",
+  "setupMove": "f7e6",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "006HV",
+  "tier": "easy",
+  "rating": 1112,
+  "startFen": "1r6/5k2/2p1pNp1/p5Pp/1pQ1P2P/2P4R/KP3P2/3q4 w - - 4 31",
+  "setupMove": "c4c6",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "009IO",
+  "tier": "easy",
+  "rating": 1178,
+  "startFen": "3rk3/5p1r/p2Np1p1/3bP3/P2n4/8/1P3RPP/5RK1 b - - 4 25",
+  "setupMove": "e8e7",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "009lk",
+  "tier": "easy",
+  "rating": 915,
+  "startFen": "1R6/6pk/2p4p/3bP2r/5B1P/2P2qP1/P4P1Q/4R1K1 w - - 2 40",
+  "setupMove": "e1e3",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "009oc",
+  "tier": "easy",
+  "rating": 1193,
+  "startFen": "5Q2/pbp3np/1p1pB1pk/1P6/P3q2P/6K1/8/8 b - - 1 32",
+  "setupMove": "e4e6",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "009wR",
+  "tier": "easy",
+  "rating": 1250,
+  "startFen": "1R2R3/p7/1p1k3p/1Pb5/P5p1/6P1/5rKP/8 w - - 6 41",
+  "setupMove": "g2h1",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "00Cfq",
+  "tier": "easy",
+  "rating": 551,
+  "startFen": "6k1/ppR2pp1/4p1p1/4P1N1/3r2P1/1P4K1/P6r/8 b - - 5 30",
+  "setupMove": "h2e2",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "00CtS",
+  "tier": "easy",
+  "rating": 987,
+  "startFen": "Q5k1/5q2/p2p4/b1p1pr2/P7/6P1/4KP1R/8 b - - 3 38",
+  "setupMove": "g8g7",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "00J1Y",
+  "tier": "easy",
+  "rating": 1099,
+  "startFen": "1q3r2/p5k1/1p2pbpp/2p2p2/2P1N3/2P2PQP/PP3P2/6RK b - - 2 29",
+  "setupMove": "f5e4",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "00KYU",
+  "tier": "easy",
+  "rating": 1272,
+  "startFen": "3r4/p2n2kp/1p2Bpp1/2r2N2/4q3/6QP/P5P1/5R1K b - - 1 40",
+  "setupMove": "g7f8",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "00Keu",
+  "tier": "easy",
+  "rating": 882,
+  "startFen": "R7/1p3kp1/2pK3p/3p1PP1/1r1B2nP/8/1P6/8 b - - 2 39",
+  "setupMove": "b4d4",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "00LNB",
+  "tier": "easy",
+  "rating": 1115,
+  "startFen": "kr6/1pR4p/p4R2/n2r4/P3p3/4B3/6PP/6K1 b - - 0 38",
+  "setupMove": "d5d3",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "00MFe",
+  "tier": "easy",
+  "rating": 1238,
+  "startFen": "3r3k/p5pp/2r2q2/2p4Q/8/8/P5PP/3R1R1K b - - 5 29",
+  "setupMove": "d8d1",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "00MGA",
+  "tier": "easy",
+  "rating": 915,
+  "startFen": "r3r1k1/6b1/p2Nn2p/1P1Qp3/6nq/2P5/1PB2PP1/R1B1R1K1 w - - 1 30",
+  "setupMove": "g2g3",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "00NUS",
+  "tier": "easy",
+  "rating": 1180,
+  "startFen": "4rk2/pbp2pp1/1p1b4/3P1q2/QPBPN3/1KP2P2/P5r1/R3R3 w - - 0 25",
+  "setupMove": "e4d6",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "00OCQ",
+  "tier": "easy",
+  "rating": 1187,
+  "startFen": "1rr3k1/5p1p/p5pQ/4p3/4q3/B3P3/PPPR1PPP/2KR4 w - - 6 27",
+  "setupMove": "c2c3",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "00P6j",
+  "tier": "easy",
+  "rating": 1325,
+  "startFen": "r2n2k1/1bRq1rpp/1p6/3P4/p3Q3/B3P3/PP3PPP/3R2K1 b - - 0 20",
+  "setupMove": "d7c7",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "00QZ3",
+  "tier": "easy",
+  "rating": 1231,
+  "startFen": "r1bq3r/ppppnkpp/2n5/b5N1/4P3/B1P5/P4PPP/RN1QK2R b KQ - 1 9",
+  "setupMove": "f7f8",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "00ROK",
+  "tier": "easy",
+  "rating": 1346,
+  "startFen": "5k2/p1p2R2/1r2rp2/3p1Q2/2qP2R1/2P4P/6PK/4q3 b - - 0 33",
+  "setupMove": "f8f7",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "00SsI",
+  "tier": "easy",
+  "rating": 1137,
+  "startFen": "6R1/p4p1p/2p1pp1k/8/2N5/4b1R1/4K1PP/2q5 b - - 1 29",
+  "setupMove": "e3g5",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "00Sz9",
+  "tier": "easy",
+  "rating": 1053,
+  "startFen": "1r4k1/p4ppp/4p3/p5n1/4P3/1P1N1PPq/QB3b1P/R5K1 w - - 0 30",
+  "setupMove": "d3f2",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "00TQf",
+  "tier": "easy",
+  "rating": 1221,
+  "startFen": "4r1k1/p1R1n2p/4N3/5rK1/8/6PP/P3R3/8 w - - 3 46",
+  "setupMove": "g5g4",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "00Tya",
+  "tier": "easy",
+  "rating": 1115,
+  "startFen": "r4rk1/6pp/1p1Bp3/p7/P1PP4/4nqP1/2QR3P/4R1K1 w - - 1 25",
+  "setupMove": "c2a2",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "00Us6",
+  "tier": "easy",
+  "rating": 1261,
+  "startFen": "3r1rk1/p3R2p/2p2p2/1pPq4/1n1P1P2/6P1/1B2Q2P/2K1R3 b - - 3 32",
+  "setupMove": "d5b3",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "00V0G",
+  "tier": "easy",
+  "rating": 1145,
+  "startFen": "8/6P1/5k1K/8/8/3p4/PR6/6r1 w - - 1 49",
+  "setupMove": "b2d2",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "00VSe",
+  "tier": "easy",
+  "rating": 977,
+  "startFen": "6nr/1pN2ppp/p2Qbk2/2B1p3/3nq3/8/PP2BPPP/5K1R w - - 8 19",
+  "setupMove": "c5d4",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "00WDP",
+  "tier": "easy",
+  "rating": 1165,
+  "startFen": "1r2kb1r/p4ppp/Q1n5/2qpP1Bb/8/5N1P/P2N1PP1/R4RK1 b k - 2 16",
+  "setupMove": "b8b6",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "00YbZ",
+  "tier": "easy",
+  "rating": 1360,
+  "startFen": "b6k/8/6p1/4q2p/1Q3r1P/P1N3R1/1PP3PK/8 w - - 3 35",
+  "setupMove": "b4b6",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "00ZN7",
+  "tier": "easy",
+  "rating": 866,
+  "startFen": "3q2k1/8/Q2p2p1/3P1p1p/1p2P1nP/1Pp5/2P3P1/5R1K w - - 0 36",
+  "setupMove": "e4f5",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "00Zit",
+  "tier": "easy",
+  "rating": 1199,
+  "startFen": "r3kb1r/ppp2pp1/3p4/1P2p3/2P3pn/2N1P2q/PB1P1P1N/R2Q1RK1 w kq - 0 15",
+  "setupMove": "d1g4",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "00aCb",
+  "tier": "easy",
+  "rating": 1157,
+  "startFen": "r2q1rk1/pp2bpp1/2p1b2p/3nP3/3PN3/1P1Q3P/P4BP1/1BR2RK1 b - - 4 25",
+  "setupMove": "d5f4",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "00aDl",
+  "tier": "easy",
+  "rating": 1362,
+  "startFen": "r5k1/1p3p2/2p1ppp1/3p4/2nP4/1QB2B1P/rPP2PP1/qNKR3R w - - 3 22",
+  "setupMove": "f3e2",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "00dzT",
+  "tier": "easy",
+  "rating": 857,
+  "startFen": "6k1/1Q4p1/p1p4p/3pP3/P3bq2/2N4P/1P4PK/5B2 w - - 1 26",
+  "setupMove": "h2h1",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "00eAX",
+  "tier": "easy",
+  "rating": 694,
+  "startFen": "6k1/ppprN1pp/8/8/2r5/2P5/P5PP/3R1RK1 b - - 5 26",
+  "setupMove": "d7e7",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "00eCY",
+  "tier": "easy",
+  "rating": 706,
+  "startFen": "8/6p1/5p1p/R5kP/2b3P1/1r3PK1/8/8 b - - 4 61",
+  "setupMove": "c4d5",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "00fjN",
+  "tier": "easy",
+  "rating": 1314,
+  "startFen": "r4rk1/pp3p1p/2p3p1/q3bb2/3Pn3/1Q1BPN2/PP2KPPP/2R4R w - - 0 18",
+  "setupMove": "f3e5",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "00fwM",
+  "tier": "easy",
+  "rating": 1145,
+  "startFen": "Qn1qk2r/p4ppp/2p5/2bn4/4pPb1/2N5/PPPP2PP/R1B1KBNR w KQk - 1 9",
+  "setupMove": "h2h3",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "00ghH",
+  "tier": "easy",
+  "rating": 689,
+  "startFen": "5r1k/6p1/1Q2pq1p/P4r2/3P4/2P1R3/6PP/4R1K1 w - - 1 39",
+  "setupMove": "d4d5",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "00hSr",
+  "tier": "easy",
+  "rating": 1119,
+  "startFen": "r4rk1/5p2/1q2pnRP/p2p4/1ppP4/2P1P3/PPQN1P2/2K4R b - - 0 21",
+  "setupMove": "f7g6",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "00mFI",
+  "tier": "easy",
+  "rating": 1270,
+  "startFen": "4r2k/2q1r3/2p4Q/p5P1/1p1Pp1P1/2P1N2P/PP6/4bRK1 b - - 0 28",
+  "setupMove": "e7h7",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "00nZE",
+  "tier": "easy",
+  "rating": 1045,
+  "startFen": "r1b1r1k1/pp1p1p1Q/2n2Bp1/2p1qp2/2B1P3/3P1R2/PPP3PP/R5K1 b - - 0 16",
+  "setupMove": "g8h7",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "00ouE",
+  "tier": "easy",
+  "rating": 1392,
+  "startFen": "2r5/2r3k1/1p2pp1p/p2pQ1p1/3P4/4P1P1/PPq2P1R/KR6 w - - 0 30",
+  "setupMove": "e5e6",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "00qX2",
+  "tier": "easy",
+  "rating": 1235,
+  "startFen": "1r2r2k/Q1R4p/4q1p1/4Bb2/8/8/PP3PPP/3R2K1 b - - 0 28",
+  "setupMove": "e6e5",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "00rNc",
+  "tier": "easy",
+  "rating": 1370,
+  "startFen": "1q5r/p3kpp1/2Q1p2p/3pP2P/2n3P1/2N2P2/PrP5/K3R1NR w - - 0 26",
+  "setupMove": "g1e2",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "00s7Y",
+  "tier": "easy",
+  "rating": 982,
+  "startFen": "5rk1/5Rpp/1q1p4/2pB4/6Q1/2b4P/Pr4P1/6K1 b - - 0 29",
+  "setupMove": "f8f7",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "00sd6",
+  "tier": "easy",
+  "rating": 1148,
+  "startFen": "r2brk1Q/pp3pp1/1q1pb1n1/1Bp1p1P1/4P3/P1PPBN2/5P2/1R2K2R b K - 10 26",
+  "setupMove": "g6h8",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "00sw5",
+  "tier": "easy",
+  "rating": 1177,
+  "startFen": "3r2k1/1p3pp1/pq1b3p/3P4/P7/3Q1N2/1r3PPP/R2R2K1 w - - 0 23",
+  "setupMove": "a1b1",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "00vl5",
+  "tier": "easy",
+  "rating": 1002,
+  "startFen": "5r2/p1k2qpp/2n5/2N1p3/2b5/2P1B3/PP1Q2PP/4R1K1 w - - 5 24",
+  "setupMove": "b2b3",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "00wPZ",
+  "tier": "easy",
+  "rating": 1391,
+  "startFen": "r1b2rk1/ppp2ppp/8/1B1pN3/3bn3/8/PPP2qPP/RNBQR2K w - - 0 12",
+  "setupMove": "e5f3",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "00yHW",
+  "tier": "easy",
+  "rating": 947,
+  "startFen": "8/1p4r1/PR6/6pk/8/6PP/6K1/8 b - - 0 40",
+  "setupMove": "b7a6",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "00zNz",
+  "tier": "easy",
+  "rating": 1080,
+  "startFen": "r1bqk2r/pp1np1bp/2p3p1/3pNB2/3P1B2/4P3/PPP2PPP/R2QK2R b KQkq - 0 10",
+  "setupMove": "g6f5",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "00zVd",
+  "tier": "easy",
+  "rating": 676,
+  "startFen": "3rkbnr/1pp3pp/p4p2/4N3/4b3/8/PPP2PPP/RNB1R1K1 w k - 0 11",
+  "setupMove": "e1e4",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "0198M",
+  "tier": "easy",
+  "rating": 942,
+  "startFen": "6rk/p1N2R1p/1n1Q4/2p1p3/8/7P/PPP3P1/4q2K w - - 1 33",
+  "setupMove": "h1h2",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "01EMd",
+  "tier": "easy",
+  "rating": 1347,
+  "startFen": "r6k/4q1pp/1n1pBp2/2p1nP2/1p2R2Q/1P5P/r5P1/2B1R1K1 b - - 6 31",
+  "setupMove": "b6d7",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "01EUl",
+  "tier": "easy",
+  "rating": 1350,
+  "startFen": "r2qk2r/ppp2pp1/2p2n2/7p/3bP1b1/2N3Q1/PPP2PPP/R1B1KB1R w KQkq - 0 9",
+  "setupMove": "h2h3",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "01GBu",
+  "tier": "easy",
+  "rating": 1233,
+  "startFen": "5r1k/3p2bp/p4pp1/qp1br3/4P3/1Q4B1/PP2RPPP/4R1K1 w - - 0 23",
+  "setupMove": "e4d5",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "01Gqt",
+  "tier": "easy",
+  "rating": 1369,
+  "startFen": "4Q3/6bk/6pp/pp6/8/3qBP1P/PP6/K1R5 w - - 0 37",
+  "setupMove": "a2a3",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "01I0q",
+  "tier": "easy",
+  "rating": 785,
+  "startFen": "2k2n1r/prp3pp/8/Q1RP4/2N1Pq2/P7/1P3PPP/5RK1 w - - 3 28",
+  "setupMove": "f1c1",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "01IFU",
+  "tier": "easy",
+  "rating": 1105,
+  "startFen": "r1b2rk1/pp3pp1/3b3p/3Bn3/P2N1q2/2P4P/1P3PP1/RN1Q1RK1 w - - 1 17",
+  "setupMove": "d4e2",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "01IFr",
+  "tier": "easy",
+  "rating": 1011,
+  "startFen": "6Rk/pp6/1bpN3p/4P1p1/7q/3Q3P/PP4P1/7K b - - 0 28",
+  "setupMove": "h8g8",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "01Ie5",
+  "tier": "easy",
+  "rating": 943,
+  "startFen": "8/3R3p/6pk/5p2/5PP1/1r5P/r2B1K2/8 b - - 0 46",
+  "setupMove": "b3b2",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "01IvQ",
+  "tier": "easy",
+  "rating": 1099,
+  "startFen": "8/2rN1pk1/2P4p/pB6/1b4RP/5K2/8/4r3 b - - 4 44",
+  "setupMove": "g7h7",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "01J3q",
+  "tier": "easy",
+  "rating": 1180,
+  "startFen": "r3r1k1/ppq1ppb1/2p3nN/2Pp3p/3Pn2N/1P2P2P/PB3QP1/R4RK1 b - - 9 23",
+  "setupMove": "g7h6",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "01LGs",
+  "tier": "easy",
+  "rating": 1284,
+  "startFen": "4rr2/ppp2q1k/3p2p1/2bP4/4RPP1/1RBQ4/P6P/7K b - - 0 32",
+  "setupMove": "e8e4",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "01LO7",
+  "tier": "easy",
+  "rating": 1089,
+  "startFen": "r3r1k1/1pqb1p1p/4p1nQ/p1bp3N/3p4/P2B1P2/1PP2P1P/R3R1K1 b - - 0 17",
+  "setupMove": "c5f8",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "01LlS",
+  "tier": "easy",
+  "rating": 887,
+  "startFen": "4rrk1/ppp1qppp/8/6N1/4N1P1/b2Q3P/P4P2/1R4K1 b - - 0 24",
+  "setupMove": "h7h6",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "01NfS",
+  "tier": "easy",
+  "rating": 1172,
+  "startFen": "r3k2r/pp2bppp/2pQ4/2Bn4/6P1/3P4/PPP4P/1K2R1Nq b kq - 3 19",
+  "setupMove": "a8d8",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "01OgB",
+  "tier": "easy",
+  "rating": 904,
+  "startFen": "r3r1k1/1ppQ1pp1/1p5p/1P6/3P4/2P5/3B1PPP/5qK1 w - - 0 22",
+  "setupMove": "g1f1",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "01Pe4",
+  "tier": "easy",
+  "rating": 1133,
+  "startFen": "r2qkb1r/1b3ppp/p1p1p3/2ppN3/4nPP1/1P2P3/PBPP3P/RN1QK2R w KQkq - 2 10",
+  "setupMove": "d2d3",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "01QTc",
+  "tier": "easy",
+  "rating": 804,
+  "startFen": "R1b3k1/4pp1p/3p2p1/2pP4/2P1PP2/2Q2B1P/5qPK/1r6 b - - 9 27",
+  "setupMove": "h7h5",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "01QgT",
+  "tier": "easy",
+  "rating": 931,
+  "startFen": "8/8/p1pk1R2/1pp1rp2/8/1P1K4/P1P5/8 b - - 1 36",
+  "setupMove": "d6d5",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "01Qwv",
+  "tier": "easy",
+  "rating": 988,
+  "startFen": "5rk1/p3Q1pp/2p5/3q4/4p1B1/6PP/4P1K1/8 b - - 3 31",
+  "setupMove": "d5d1",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "01TEE",
+  "tier": "easy",
+  "rating": 1039,
+  "startFen": "2r1r1k1/pp2bppp/1q3n2/4B3/4N3/1P3Q2/P5PP/3R1R1K b - - 4 18",
+  "setupMove": "f6e4",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "01Vnj",
+  "tier": "easy",
+  "rating": 1026,
+  "startFen": "6r1/5p1k/p3pBP1/2Pp2Q1/q1pP3P/P4P2/5K2/8 b - - 0 33",
+  "setupMove": "g8g6",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "01VxT",
+  "tier": "easy",
+  "rating": 713,
+  "startFen": "5rk1/R4p1p/4p1p1/4P3/P2PNn2/7P/1r3PP1/3R1K2 w - - 2 30",
+  "setupMove": "d1d2",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "01WoU",
+  "tier": "easy",
+  "rating": 1133,
+  "startFen": "6k1/1p4pp/p3r3/2b1r3/5N2/2P5/PP2n1PP/2B1RR1K w - - 4 26",
+  "setupMove": "f4e6",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "01Xzx",
+  "tier": "easy",
+  "rating": 1112,
+  "startFen": "3r2k1/1Rp1qpp1/7p/8/5Q2/1PP5/5PPP/3r1RK1 w - - 5 26",
+  "setupMove": "b7c7",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "01Yqt",
+  "tier": "easy",
+  "rating": 1258,
+  "startFen": "8/2p5/3b2kp/3p2p1/P3p1K1/1P2R2P/1B4P1/8 w - - 2 36",
+  "setupMove": "h3h4",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "01awh",
+  "tier": "easy",
+  "rating": 1156,
+  "startFen": "3r3k/pQ2b1pp/8/8/2p2q1n/2B2p2/PP3P1P/1K4NN w - - 0 27",
+  "setupMove": "b7e7",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "01b3S",
+  "tier": "easy",
+  "rating": 1341,
+  "startFen": "r2q1r1k/4b1p1/p3b2p/4B1pQ/2p1P3/1P1p3P/P2P1P2/2KR2R1 b - - 0 22",
+  "setupMove": "c4b3",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "01czg",
+  "tier": "easy",
+  "rating": 791,
+  "startFen": "4kr2/p3n3/2p4Q/2PpP1N1/2pB1p2/q1P5/1r3PPP/1R4K1 w - - 0 29",
+  "setupMove": "b1b2",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "01ehq",
+  "tier": "easy",
+  "rating": 1381,
+  "startFen": "2kr3r/1bpp1ppp/1b4q1/p3Pn2/PpN5/1BpP1P2/1P1BQ1PP/R4R1K w - - 0 18",
+  "setupMove": "b2c3",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "01f0q",
+  "tier": "easy",
+  "rating": 1101,
+  "startFen": "r4rk1/ppp1qpp1/1nn1b2p/2b1p3/4N3/2PQ1N1P/PPB2PP1/R1B2RK1 b - - 7 14",
+  "setupMove": "a8d8",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "01hmS",
+  "tier": "easy",
+  "rating": 1162,
+  "startFen": "r4rk1/p4ppp/Q7/3pb3/1B1Np2q/P3P3/4BPK1/1RR5 w - - 3 26",
+  "setupMove": "b4f8",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "01jao",
+  "tier": "easy",
+  "rating": 1314,
+  "startFen": "2kr3r/ppp2ppp/2nbp3/6B1/P2P2n1/2N2N1q/1PP1BP2/R2QR1K1 w - - 2 14",
+  "setupMove": "e2f1",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "01l8L",
+  "tier": "easy",
+  "rating": 967,
+  "startFen": "3r2rk/1pq2pp1/p2pbR1p/8/8/3B4/PPPQ1PPP/3R2K1 b - - 1 24",
+  "setupMove": "c7e7",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "01m5k",
+  "tier": "easy",
+  "rating": 1268,
+  "startFen": "4r1k1/pp2rp1p/5Rp1/1q6/8/1P4Q1/P4PPP/5RK1 w - - 1 22",
+  "setupMove": "a2a4",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "01mxD",
+  "tier": "easy",
+  "rating": 1147,
+  "startFen": "rn3rk1/p1b2ppp/1p1qp3/3p2n1/1P1P4/PN1QPN2/5PPP/R3BRK1 w - - 6 17",
+  "setupMove": "b4b5",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "01q3y",
+  "tier": "easy",
+  "rating": 1151,
+  "startFen": "rnb2r2/ppp2B1k/3p3p/2b4Q/4P3/3P4/PP1NKPPP/q7 b - - 0 14",
+  "setupMove": "a1b2",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "01rGp",
+  "tier": "easy",
+  "rating": 843,
+  "startFen": "1r6/5pkp/6p1/8/8/8/1pR2PPP/rR4K1 w - - 2 39",
+  "setupMove": "c2b2",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "01srl",
+  "tier": "easy",
+  "rating": 801,
+  "startFen": "2r1r3/pQ5p/5kp1/1P6/P7/8/5PPP/4R1K1 w - - 1 34",
+  "setupMove": "e1e8",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "01tol",
+  "tier": "easy",
+  "rating": 1386,
+  "startFen": "4nrk1/2pR2pp/5p2/p7/P5QP/1q6/1B4P1/1K6 b - - 1 27",
+  "setupMove": "f6f5",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "01tyT",
+  "tier": "easy",
+  "rating": 1338,
+  "startFen": "8/5p2/3Q4/6pk/PP4qp/6P1/5PKP/8 w - - 2 48",
+  "setupMove": "d6c5",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "01w3s",
+  "tier": "easy",
+  "rating": 1154,
+  "startFen": "r4r1k/ppp1q1pp/6N1/5Q2/2B5/2P5/P1P2PPP/2KR4 b - - 2 21",
+  "setupMove": "h7g6",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "01wS5",
+  "tier": "easy",
+  "rating": 908,
+  "startFen": "b5rk/6p1/qNpQR2p/5p2/3P4/5P2/1P4PP/6K1 b - - 1 32",
+  "setupMove": "a6b6",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "01wdX",
+  "tier": "easy",
+  "rating": 859,
+  "startFen": "5qk1/p2nN1pp/5r2/1p1p2N1/2pP4/2P5/PPQ3PP/5RK1 b - - 0 24",
+  "setupMove": "f8e7",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "01xnx",
+  "tier": "easy",
+  "rating": 991,
+  "startFen": "7k/ppp3p1/1b4qp/5b2/1P3R2/PQ6/2RBrPPP/6K1 b - - 11 25",
+  "setupMove": "f5c2",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ },
+ {
+  "id": "01xow",
+  "tier": "easy",
+  "rating": 603,
+  "startFen": "6k1/ppq3pp/2pNQpn1/2Pp4/8/6P1/PP4PP/3rN1K1 b - - 0 24",
+  "setupMove": "g8h8",
+  "par": 2,
+  "engine": {
+   "engineVersion": "stockfish.js-19.0.1-lite-single",
+   "netFile": "nn-61e7af4bb97d.nnue",
+   "nodes": 1000000,
+   "hashMb": 16,
+   "threads": 1
+  }
+ }
+]
