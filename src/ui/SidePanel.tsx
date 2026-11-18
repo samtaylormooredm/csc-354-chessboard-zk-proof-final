@@ -43,22 +43,23 @@ export function SidePanel(props: SidePanelProps) {
         ))}
       </div>
 
-      <div className="stats">
-        <div className="stat">
-          <span className="stat-label">Rating</span>
-          <span className="stat-value">{puzzle ? puzzle.rating : "–"}</span>
-        </div>
-        <div className="stat">
-          <span className="stat-label">Par</span>
-          <span className="stat-value">{puzzle ? puzzle.par : "–"}</span>
-        </div>
-        <div className="stat">
-          <span className="stat-label">Your moves</span>
-          <span className={`stat-value ${puzzle && used > puzzle.par ? "over-par" : ""}`} data-testid="move-counter">
-            {puzzle ? `${used} / ${puzzle.par}` : "–"}
-          </span>
-        </div>
+      <div className="puzzle-id">
+        {puzzle
+          ? `Puzzle ${props.puzzleNumber} of ${props.puzzleCount}`
+          : "Loading puzzles…"}
       </div>
+
+      <Status state={state} loadError={loadError} engineError={engineError} />
+
+      {puzzle && (
+        <div className="move-summary">
+          Your moves: <span data-testid="move-counter">{used}</span>
+          {" · "}
+          <span data-testid="par">Target: {puzzle.par}</span>
+          {" · "}
+          Limit: {moveCap(puzzle)}
+        </div>
+      )}
 
       <div className="puzzle-id">
         {puzzle ? (

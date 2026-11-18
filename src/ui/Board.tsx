@@ -2,8 +2,8 @@ import { Chess, type Square } from "chess.js";
 import { useMemo, useState, type CSSProperties } from "react";
 import { Chessboard, defaultPieces, type ChessboardOptions } from "react-chessboard";
 
-const LIGHT = "#EEEED2";
-const DARK = "#769656";
+const LIGHT = "#E5EDF6";
+const DARK = "#52749A";
 const HIGHLIGHT = "rgba(255, 255, 51, 0.5)";
 const MARK = "rgba(235, 97, 80, 0.8)";
 const CHECK = "radial-gradient(circle, rgba(255, 0, 0, 0.9) 0%, rgba(231, 0, 0, 0.55) 35%, rgba(169, 0, 0, 0) 70%)";
