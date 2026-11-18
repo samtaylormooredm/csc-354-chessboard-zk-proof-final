@@ -4,7 +4,10 @@ import { Chessboard, defaultPieces, type ChessboardOptions } from "react-chessbo
 
 const LIGHT = "#E5EDF6";
 const DARK = "#52749A";
-const HIGHLIGHT = "rgba(255, 255, 51, 0.5)";
+const HIGHLIGHT = "#F4EF9A";
+const LAST_MOVE_HIGHLIGHT = "#233D78";
+const SELECTED_LIGHT = "#F4EF9A";
+const SELECTED_DARK = "#E3CD72";
 const MARK = "rgba(235, 97, 80, 0.8)";
 const CHECK = "radial-gradient(circle, rgba(255, 0, 0, 0.9) 0%, rgba(231, 0, 0, 0.55) 35%, rgba(169, 0, 0, 0) 70%)";
 // Percentages are of the centre-to-corner distance, so 70% is roughly the square's edge.
@@ -64,10 +67,16 @@ export function Board({ fen, orientation, lastMove, interactive, onMove }: Board
   };
   // Added bottom-up: later layers are painted on top of earlier ones.
   if (lastMove) {
-    layer(lastMove.slice(0, 2), solid(HIGHLIGHT));
-    layer(lastMove.slice(2, 4), solid(HIGHLIGHT));
+    layer(lastMove.slice(0, 2), solid(LAST_MOVE_HIGHLIGHT));
+    layer(lastMove.slice(2, 4), solid(LAST_MOVE_HIGHLIGHT));
   }
-  if (selected && interactive) layer(selected, solid(HIGHLIGHT));
+  if (selected && interactive) {
+    const file = selected.charCodeAt(0) - "a".charCodeAt(0);
+    const rank = Number(selected[1]);
+    const isDarkSquare = (file + rank) % 2 === 1;
+
+    layer(selected, solid(isDarkSquare ? SELECTED_DARK : SELECTED_LIGHT));
+  }
   if (chess.inCheck()) {
     const king = chess.findPiece({ type: "k", color: turn })[0];
     if (king) layer(king, CHECK);
@@ -96,13 +105,13 @@ export function Board({ fen, orientation, lastMove, interactive, onMove }: Board
     arrowOptions: {
       colors: {
         default: "rgba(255, 170, 0, 0.85)",
-        shift: "rgba(99, 166, 238, 0.9)",
+        shift: "rgba(159, 207, 63, 0.9)",
         ctrl: "rgba(248, 85, 63, 0.9)",
         alt: "rgba(72, 193, 249, 0.9)",
         meta: "rgba(72, 193, 249, 0.9)",
       },
       color: "rgba(255, 170, 0, 0.85)",
-      secondaryColor: "rgba(99, 166, 238, 0.9)",
+      secondaryColor: "rgba(159, 207, 63, 0.9)",
       tertiaryColor: "rgba(248, 85, 63, 0.9)",
       arrowLengthReducerDenominator: 8,
       sameTargetArrowLengthReducerDenominator: 4,
