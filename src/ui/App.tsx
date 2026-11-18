@@ -47,7 +47,7 @@ export function App() {
       <header className="topbar">
         <div className="brand">
           <span className="brand-mark" aria-hidden="true">♞</span>
-          Mate Race
+          Zero-Knowledge Mate
         </div>
       </header>
 

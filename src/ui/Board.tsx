@@ -4,7 +4,6 @@ import { Chessboard, defaultPieces, type ChessboardOptions } from "react-chessbo
 
 const LIGHT = "#E5EDF6";
 const DARK = "#52749A";
-const HIGHLIGHT = "#F4EF9A";
 const LAST_MOVE_HIGHLIGHT = "#233D78";
 const SELECTED_LIGHT = "#F4EF9A";
 const SELECTED_DARK = "#E3CD72";
