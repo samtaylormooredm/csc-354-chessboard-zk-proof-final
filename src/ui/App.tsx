@@ -4,22 +4,13 @@ import { Board } from "./Board";
 import { SidePanel } from "./SidePanel";
 import { useAttempt } from "./useAttempt";
 
-const PLAYER_ID_KEY = "mate-race.playerId";
-
-function readStoredPlayerId(): string {
-  try {
-    return localStorage.getItem(PLAYER_ID_KEY) ?? "player1";
-  } catch {
-    return "player1";
-  }
-}
+const PLAYER_ID = "player1";
 
 export function App() {
   const [tier, setTier] = useState<Tier>("easy");
   const [puzzlesByTier, setPuzzlesByTier] = useState<Partial<Record<Tier, Puzzle[]>>>({});
   const [indexByTier, setIndexByTier] = useState<Record<Tier, number>>({ easy: 0, medium: 0, hard: 0 });
   const [loadError, setLoadError] = useState<string | null>(null);
-  const [playerId, setPlayerId] = useState(readStoredPlayerId);
 
   const puzzles = puzzlesByTier[tier];
   useEffect(() => {
@@ -51,15 +42,6 @@ export function App() {
   // While a new puzzle is loading, `state` can briefly still belong to the previous one.
   const current = state.phase !== "Loading" && state.puzzle === puzzle ? state : null;
 
-  function changePlayerId(value: string) {
-    setPlayerId(value);
-    try {
-      localStorage.setItem(PLAYER_ID_KEY, value);
-    } catch {
-      // Storage is a convenience only.
-    }
-  }
-
   return (
     <div className="app">
       <header className="topbar">
@@ -67,10 +49,6 @@ export function App() {
           <span className="brand-mark" aria-hidden="true">♞</span>
           Mate Race
         </div>
-        <label className="player">
-          Player
-          <input value={playerId} onChange={(e) => changePlayerId(e.target.value)} spellCheck={false} maxLength={32} />
-        </label>
       </header>
 
       <main className="layout">
@@ -96,7 +74,7 @@ export function App() {
           puzzleCount={puzzles?.length ?? 0}
           state={current ?? { phase: "Loading" }}
           attemptKey={`${puzzle?.id ?? ""}:${attemptNumber}`}
-          playerId={playerId}
+          playerId={PLAYER_ID}
           loadError={loadError}
           engineError={engineError}
           onRetry={retry}

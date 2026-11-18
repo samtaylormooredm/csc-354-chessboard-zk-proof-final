@@ -10,7 +10,7 @@ const FAIL_TEXT: Record<FailReason, string> = {
   stalemate: "Stalemate. The defender has no legal move but is not in check.",
   draw: "Draw. The position can no longer be won.",
   "player-mated": "You were checkmated.",
-  "move-cap": "Out of moves. The limit is par + 3.",
+  "move-cap": "You reached the move limit.",
 };
 
 interface SidePanelProps {
@@ -61,21 +61,6 @@ export function SidePanel(props: SidePanelProps) {
         </div>
       )}
 
-      <div className="puzzle-id">
-        {puzzle ? (
-          <>
-            Puzzle {props.puzzleNumber} of {props.puzzleCount} · <code>{puzzle.id}</code> ·{" "}
-            <span data-testid="par">Par: {puzzle.par}</span> · limit {moveCap(puzzle)} moves
-          </>
-        ) : (
-          "Loading puzzles…"
-        )}
-      </div>
-
-      <Status state={state} loadError={loadError} engineError={engineError} />
-
-      <MoveList state={active} />
-
       {active?.phase === "Ended" && (
         <Outcome key={props.attemptKey} state={active} playerId={props.playerId} />
       )}
@@ -85,9 +70,13 @@ export function SidePanel(props: SidePanelProps) {
           Retry
         </button>
         <button type="button" className="btn btn-primary" onClick={onNext} disabled={!puzzle}>
-          Next Puzzle
+          Next puzzle
         </button>
       </div>
+      <details className="move-history" key={props.attemptKey}>
+        <summary>Move history</summary>
+        <MoveList state={active} />
+      </details>
     </aside>
   );
 }
@@ -104,7 +93,7 @@ function Status({ state, loadError, engineError }: Pick<SidePanelProps, "state" 
       return (
         <div className="status status-turn">
           <span className={`turn-dot ${state.playerColor === "w" ? "white" : "black"}`} />
-          Your move. {state.playerColor === "w" ? "White" : "Black"} to mate.
+          {state.playerColor === "w" ? "White" : "Black"} to move and checkmate
         </div>
       );
     case "DefenderThinking":
@@ -164,7 +153,6 @@ function MoveList({ state }: { state: ActiveAttemptState | null }) {
     );
   return (
     <div className="moves" aria-label="Moves">
-      <div className="moves-title">Moves</div>
       {rows.length === 0 ? (
         <div className="moves-empty">No moves yet</div>
       ) : (

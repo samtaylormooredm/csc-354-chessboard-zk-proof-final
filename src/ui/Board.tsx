@@ -96,13 +96,13 @@ export function Board({ fen, orientation, lastMove, interactive, onMove }: Board
     arrowOptions: {
       colors: {
         default: "rgba(255, 170, 0, 0.85)",
-        shift: "rgba(159, 207, 63, 0.9)",
+        shift: "rgba(99, 166, 238, 0.9)",
         ctrl: "rgba(248, 85, 63, 0.9)",
         alt: "rgba(72, 193, 249, 0.9)",
         meta: "rgba(72, 193, 249, 0.9)",
       },
       color: "rgba(255, 170, 0, 0.85)",
-      secondaryColor: "rgba(159, 207, 63, 0.9)",
+      secondaryColor: "rgba(99, 166, 238, 0.9)",
       tertiaryColor: "rgba(248, 85, 63, 0.9)",
       arrowLengthReducerDenominator: 8,
       sameTargetArrowLengthReducerDenominator: 4,
