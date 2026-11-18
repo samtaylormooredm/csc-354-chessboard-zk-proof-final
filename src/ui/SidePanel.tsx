@@ -62,7 +62,7 @@ export function SidePanel(props: SidePanelProps) {
       )}
 
       {active?.phase === "Ended" && (
-        <Outcome key={props.attemptKey} state={active} playerId={props.playerId} />
+        <Outcome key={`outcome:${props.attemptKey}`} state={active} playerId={props.playerId} />
       )}
 
       <div className="actions">
@@ -73,7 +73,7 @@ export function SidePanel(props: SidePanelProps) {
           Next puzzle
         </button>
       </div>
-      <details className="move-history" key={props.attemptKey}>
+      <details className="move-history" key={`history:${props.attemptKey}`}>
         <summary>Move history</summary>
         <MoveList state={active} />
       </details>
